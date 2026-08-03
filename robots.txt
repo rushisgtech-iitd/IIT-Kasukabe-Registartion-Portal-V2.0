@@ -1,5 +1,0 @@
-User-agent: *
-
-Allow: /
-
-Sitemap: https://rushisgtech-iitd.github.io/IIT-Dholakpur-Registration-Portal/sitemap.xml
